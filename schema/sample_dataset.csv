@@ -1,0 +1,14 @@
+customer_id,customer_name,email,city,created_at
+1,Ravi,ravi@gmail.com,Chennai,2023-01-10
+2,Meena,meena@gmail.com,Bangalore,2023-02-12
+3,Raj,raj@gmail.com,Hyderabad,2023-03-05
+
+product_id,product_name,category,price
+1,Laptop,Electronics,55000
+2,Headphones,Electronics,3000
+3,Coffee Mug,Home,250
+
+sale_id,customer_id,product_id,amount,sale_date
+1,1,1,55000,2023-04-01
+2,2,2,3000,2023-04-03
+3,3,3,250,2023-04-05
